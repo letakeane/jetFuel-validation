@@ -1,0 +1,15 @@
+{
+  "name": "validate-nlf",
+  "version": "1.0.0",
+  "description": "a pre-commit validator",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-validate": "^2.2.2"
+  }
+}
